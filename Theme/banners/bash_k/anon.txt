@@ -1,1 +1,2 @@
 alias anon='rm $HISTFILE'
+alias myip="curl http://ipecho.net/plain; echo"
