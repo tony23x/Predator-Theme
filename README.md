@@ -62,6 +62,7 @@
 <hr></hr>
 
 # Tip: 
+* _Si nota cambios al abrir otra sesión solo reinicie su PC o App_
 
 * _Si en su distro no funciona translate-shell simplemente ejecute:_
 <br>gawk -f <(curl -Ls git.io/translate) -- -shell</br>
