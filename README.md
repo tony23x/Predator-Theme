@@ -61,7 +61,7 @@
 ```
 <hr></hr>
 
-# Aviso: 
+# Tip: 
 
 * _Si en su distro no funciona translate-shell simplemente ejecute:_
 <br>gawk -f <(curl -Ls git.io/translate) -- -shell</br>
