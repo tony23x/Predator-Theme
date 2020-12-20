@@ -9,3 +9,4 @@ setopt hist_verify            # show command with history expansion to user befo
 #setopt share_history         # share command history data
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
