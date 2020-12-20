@@ -1,2 +1,3 @@
 alias su='proot -0 -w ~ $PREFIX/bin/zsh'
 alias anon='rm $HISTFILE'
+alias myip="curl http://ipecho.net/plain; echo"
