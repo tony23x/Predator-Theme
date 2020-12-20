@@ -13,8 +13,9 @@
 * _Uso de ZSH_
 * _30 banners normales y 21 banners multicolor (51)_
 * _Autocompletado de comandos_
+* _Entrar a un directorio con solo escribi su nombre_
 * _Traductor integrado_
-* _Comandos extras integrados ;)_
+* _Comandos extras integrados: anon, su (FakeRoot), myip_
 * _Si lo instalas en Termux tendrás teclas extras ;)_
 * _Soporte para Kali en Termux con proot-distro_
 
