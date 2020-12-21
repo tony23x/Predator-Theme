@@ -24,7 +24,7 @@
 <hr>
 
 # Mobile
-<img src="https://user-images.githubusercontent.com/55555800/94959981-b8bf4080-04b7-11eb-8e38-0ebf5ccaa52e.jpg" alt="PREVIEW" align="center" width="350px" height="600px">
+<img src="https://i.ibb.co/2dNkJTz/mobile.jpg" alt="PREVIEW" align="center" width="350px" height="600px">
 
 # Desktop
 <img src="https://user-images.githubusercontent.com/55555800/94967642-ff7c5d00-04ee-11eb-84a0-93af42789e84.png" alt="PREVIEW" align="center">
