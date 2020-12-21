@@ -69,5 +69,5 @@
 
 <!-- MarkDown Links & Images -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20%20V.5.0-red
-[tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Debian%20%7C%20Ubuntu%20%7C%20Parrot%20%7CLinuxMint%20%20%7C%20Termux%20%7C%20Userland-blue
+[tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Debian%20%7C%20Ubuntu%20%7C%20Parrot%20%7C%20LinuxMint%20%7C%20Termux%20%7C%20Userland-blue
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-green
