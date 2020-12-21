@@ -11,7 +11,7 @@
 <h2 align="center"> Script que te permite personalizar tu terminal con cursores y banners! </h2>
 
 * _Uso de ZSH_
-* _32 banners normales y 21 banners multicolor (53)_
+* _32 banners normales y 22 banners multicolor (54)_
 * _Autocompletado de comandos_
 * _Entrar a un directorio con solo escribir su nombre_
 * _Traductor integrado_
