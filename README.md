@@ -61,7 +61,7 @@
 ```
 <hr></hr>
 
-# Tip: 
+# Tips: 
 * _Si no nota cambios al abrir otra sesión solo reinicie su PC o App_
 
 * _Si en su distro no funciona translate-shell simplemente ejecute:_
