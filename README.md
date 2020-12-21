@@ -1,4 +1,4 @@
-<h1 align="center"> <i> Predator-Theme V.4.0 </i> </h1>
+<h1 align="center"> <i> Predator-Theme V.5.0 </i> </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55555800/94959784-6120d500-04b7-11eb-89ad-c97a528154fa.gif" alt="PREVIEW" align="center">
 </p>
