@@ -7,6 +7,8 @@
 ![version]
 ![Tested]
 ![autor]
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
+
 
 <h2 align="center"> Script que te permite personalizar tu terminal con cursores y banners! </h2>
 
